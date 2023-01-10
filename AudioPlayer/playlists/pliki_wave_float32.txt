@@ -1,0 +1,3 @@
+C:/Users/MSI/PycharmProjects/AudioPlayer/audio/32_bit_float.WAV
+C:/Users/MSI/PycharmProjects/AudioPlayer/audio/32_bit_float_30_dB_atten.wav
+C:/Users/MSI/PycharmProjects/AudioPlayer/audio/M1F1-float32-AFsp.wav

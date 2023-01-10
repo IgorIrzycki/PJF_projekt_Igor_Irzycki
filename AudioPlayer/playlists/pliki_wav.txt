@@ -1,0 +1,5 @@
+C:/Users/MSI/PycharmProjects/AudioPlayer/audio/examples_1kHz-0dBFS.wav
+C:/Users/MSI/PycharmProjects/AudioPlayer/audio/examples_1kHz-10kHz-Sweep.wav
+C:/Users/MSI/PycharmProjects/AudioPlayer/audio/examples_1kHz-20dbFS.wav
+C:/Users/MSI/PycharmProjects/AudioPlayer/audio/examples_5kHz-40dBFS.wav
+C:/Users/MSI/PycharmProjects/AudioPlayer/audio/file_example_WAV_1MG.wav

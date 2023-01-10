@@ -1,0 +1,2 @@
+C:/Users/MSI/PycharmProjects/AudioPlayer/audio/ChopinHeroicPolonaise.mp3
+C:/Users/MSI/PycharmProjects/AudioPlayer/audio/Ariana_Grande_thank_u_next.mp3
