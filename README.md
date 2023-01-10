@@ -47,7 +47,7 @@ The Audio Player also shows elapsed time of currently playing song and name of c
 
 ## :notes: Getting started :notes:
 Make sure that you are using version 3.11 of Python.
-To adding all modules and packages required for this project, open up a terminal and navigate to the directory of your Python project. Once you are there, type the following commands:
+To add all modules and packages required for this project, open up a terminal and navigate to the directory of your Python project. Once you are there, type the following commands:
 ```
 $ pip install mutagen
 $ pip install pygame
